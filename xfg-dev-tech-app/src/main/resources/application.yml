@@ -1,0 +1,6 @@
+server:
+  port: 8091
+
+spring:
+  config:
+    name: xfg-dev-tech
